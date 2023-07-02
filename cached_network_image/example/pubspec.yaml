@@ -8,8 +8,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  # cached_network_image:
-  #   path: ../
+  cached_network_image:
+    path: ../
   baseflow_plugin_template:
     git:
       url: https://github.com/Baseflow/baseflow_plugin_template.git
